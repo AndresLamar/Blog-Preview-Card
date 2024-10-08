@@ -32,7 +32,7 @@ Web View
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://mdchong.github.io/blog-preview-card-main/
+- Live Site URL: [Live Site](https://andreslamar.github.io/Blog-Preview-Card)
 
 ## My process
 
