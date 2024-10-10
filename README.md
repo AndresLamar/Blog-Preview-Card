@@ -31,8 +31,8 @@ Web View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://andreslamar.github.io/Blog-Preview-Card)
+- [Solution URL ](https://www.frontendmentor.io/solutions/blog-preview-card-wmJ03FwnS9)
+- [Live Site](https://andreslamar.github.io/Blog-Preview-Card)
 
 ## My process
 
